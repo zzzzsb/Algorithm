@@ -1,7 +1,6 @@
 //https://leetcode.com/problems/find-all-anagrams-in-a-string/
 //438. Find All Anagrams in a String
 
-//cool code
 var findAnagrams = function(s, p) {
   let res = [];
   //edge case
@@ -10,17 +9,12 @@ var findAnagrams = function(s, p) {
   //p로 map 만든다.
   let map = new Map();
   for(let c of p){
-      //map.set(c, (map.get(c) || 0) +1);
       if(map.has(c)) map.set(c, map.get(c)+1);
       else map.set(c, 1);
   }
-  //console.log(map)
   let left=0, right=0;
   let counter = map.size;
-  //a:0 b:0 c:0
-  //cbaebabacd 0
-  //^
-  //   ^
+  
   while(right < s.length){
       let curChar = s.charAt(right);
       if(map.has(curChar)){

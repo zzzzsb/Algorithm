@@ -3,9 +3,6 @@
 // Backtracking
 
 /*
-res = [];
-combination
-
 3
 ((( )))
 (() ())

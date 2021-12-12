@@ -1,31 +1,6 @@
 //https://leetcode.com/problems/count-binary-substrings/
 //696. Count Binary Substrings
 /*
-I : string
-O : integer
-C : 
-    - 1 <= s.length <= 105
-    - s[i] is either '0' or '1'.
-E :
-
-
-
-Input: s = "00110011"
-                  ^
-                   ^
-Output: 6
-
-0011
-01
-1100
-10
-0011
-01
-
-00110011
-^
-
-
 현재숫자랑 이전숫자를 비교해서 다르면 substr[cur]=1넣기
                        같으면 substr[cur]++;
 
@@ -61,5 +36,3 @@ var countBinarySubstrings = function(s) {
   }
   return res;
 };
-/*Runtime: 108 ms, faster than 37.40% of JavaScript online submissions for Count Binary Substrings.
-Memory Usage: 42.3 MB, less than 71.18% of JavaScript online submissions for Count Binary Substrings.*/

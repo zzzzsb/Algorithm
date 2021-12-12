@@ -2,25 +2,7 @@
 // 3. Longest Substring Without Repeating Characters
 // Sliding Window
 
-/*
-input: string
-ouput: integer
-constraints:
-    - 
-edge case:
-    - if(!s) return 0;
-
-ds:
-Algo: sliding window
-
-Input: s = "abcabcbb"
-      left        ^
-            
-      
-set= a b c
-size 3
-
-*/
+//Solution 1
 //N:s.length 
 //time: O(N)
 //space: O(N)
@@ -42,20 +24,7 @@ var lengthOfLongestSubstring = function(s) {
   return result;
 };
 
-// 은하언니 코드 수정 ver
-/*
-"abcabcbb"
-  ^
-    ^
-Output: 3
-
-bca
-
-"qrsvbspk"
-    ^
-      ^
-vbs
-*/
+//Solution 2
 var lengthOfLongestSubstring = function(s) {
   // edge case
   if(s.length === 0 || s.length === 1) return s.length;
@@ -83,14 +52,9 @@ var lengthOfLongestSubstring = function(s) {
   return maxLength;
 };
 
-//홍빈언니 코드
+// Solution 3
 // time: O(N)
 // space: O(N)
-// b:true 
-// max: 3
-//"abcabcbb"
-//        ^
-//         ^
 var lengthOfLongestSubstring = function(s) {
     let i=0, j=0;
     let max =0;
