@@ -1,3 +1,3 @@
 # Algorithm
 
-##### https://velog.io/@jisubin12/series/Algorithm
+#### https://velog.io/@jisubin12/series/Algorithm
