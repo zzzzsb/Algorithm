@@ -12,3 +12,4 @@ My solutions to [LeetCode](https://leetcode.com/) in JavaScript
 | #    | Title                                                                                                                                                                   | Solution                                                                                              | Difficulty |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------- |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)                   | [JavaScript](./algorithms/1984-Minimum-Difference-Between-Highest-and%20-Lowest-of-K-Scores.js)       | Easy       |
+
