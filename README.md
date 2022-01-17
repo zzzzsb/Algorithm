@@ -5,7 +5,7 @@ My solutions to [LeetCode](https://leetcode.com/) in JavaScript
 
 | #    | Title | Solution | Difficulty |
 | ---- | ----- | -------- | ---------- |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./leetcode/leetcode_3.js) | Medium |
+| 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./leetcode/leetcode_3.js) | Medium |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [JavaScript](./leetcode/leetcode_22.js) | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [JavaScript](./leetcode/leetcode_39.js) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./leetcode/leetcode_53.js) | Easy |
