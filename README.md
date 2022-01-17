@@ -1,8 +1,5 @@
 # Algorithm
 
-#### https://velog.io/@jisubin12/series/Algorithm
-
-
 # LeetCode
 My solutions to [LeetCode](https://leetcode.com/) in JavaScript
 
