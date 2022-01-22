@@ -1,3 +1,9 @@
+/*
+스택 만들어서 push한다. 이때 제일 끝값이 현재 들어올값보다 크면 pop해준다.
+pop해줄때 k-- 해주면서. 
+cnt == k 되면 푸쉬하지 않은 나머지값을 마저 넣어준다.
+*/
+
 //Solution 1
 //time: O(N*k)
 //space: O(N-k)
@@ -28,7 +34,18 @@ var removeKdigits = function(num, k) {
 };
 
 
-//Solution 2
+/*
+Input: num = "1432219", k = 3
+Output: "1219"
+
+  0 1 2 3 4 5 6
+  i,4,3,i,2,i,9
+i         ^
+j ^
+
+min = [1,5]
+result=[1,2,1,9]
+*/
 var removeKdigits = function(num, k) {
   //edge case
   if(num.length === k) return "0";
