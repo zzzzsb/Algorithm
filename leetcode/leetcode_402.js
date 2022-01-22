@@ -46,6 +46,7 @@ j ^
 min = [1,5]
 result=[1,2,1,9]
 */
+//Solution 2
 var removeKdigits = function(num, k) {
   //edge case
   if(num.length === k) return "0";
