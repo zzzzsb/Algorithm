@@ -10,7 +10,7 @@ var exist = function(board, word) {
   if(board.length * board[0].length < word.length) return false;
   
   let w=0;
-	for(let i=0; i<board.length; i++){ //time: O(m*n^4)
+  for(let i=0; i<board.length; i++){ //time: O(m*n^4)
     for(let j=0; j<board[0].length; j++){
         if(backtracking(board, word, w, i, j)) return true;
     }

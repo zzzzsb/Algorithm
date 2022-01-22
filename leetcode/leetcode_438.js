@@ -1,13 +1,12 @@
-//https://leetcode.com/problems/find-all-anagrams-in-a-string/
-//438. Find All Anagrams in a String
+// https://leetcode.com/problems/find-all-anagrams-in-a-string/
+// 438. Find All Anagrams in a String
 
-//Solution #1
+// Solution #1
 var findAnagrams = function(s, p) {
   let res = [];
   //edge case
   if(p.length>s.length) return res;
   
-  //p로 map 만든다.
   let map = new Map();
   for(let c of p){
       if(map.has(c)) map.set(c, map.get(c)+1);
@@ -34,8 +33,6 @@ var findAnagrams = function(s, p) {
           }
           left++;
       }
-      console.log(left, right)
-      console.log(map)
   }
   return res;
 };
@@ -67,8 +64,7 @@ function stringAnagrams(string, pattern){
           if(value !== 0) break;
           else if(mCount === patternMap.size) res.push(left);
         }
-        //console.log(patternMap)
-        //console.log(res)
+
         if(patternMap.has(string[left])){
           patternMap.set(string[left], patternMap.get(string[left])+1);
         }

@@ -2,10 +2,10 @@
 // 3. Longest Substring Without Repeating Characters
 // Sliding Window
 
-//Solution 1
-//N:s.length 
-//time: O(N)
-//space: O(N)
+// Solution 1
+// N:s.length 
+// time: O(N)
+// space: O(N)
 var lengthOfLongestSubstring = function(s) {
   let result = 0;
   let set = new Set();
@@ -19,12 +19,11 @@ var lengthOfLongestSubstring = function(s) {
       if (set.size > result){
           result = set.size;
       }
-      //console.log(set)
   }
   return result;
 };
 
-//Solution 2
+// Solution 2
 var lengthOfLongestSubstring = function(s) {
   // edge case
   if(s.length === 0 || s.length === 1) return s.length;

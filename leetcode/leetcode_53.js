@@ -20,6 +20,7 @@ dp[i-1]+nums[i] 가 max이면 dp[i]를 갱신해주고, 더한게 max가 아니�
 
 */
 
+// Solution 1
 // N: nums.length
 // time: O(N)
 // space: O(N)
@@ -36,7 +37,7 @@ var maxSubArray = function(nums) {
     return max;
 };
 
-// Refactoring
+// Solution 1 Refactoring
 // N: nums.length
 // time: O(N)
 // space: O(1)
