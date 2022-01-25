@@ -24,7 +24,7 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |:---:| ----------------- | -------- | -------- |
 |1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[JavaScript](./프로그래머스/Level%201/신규%20아이디%20추천.js)|1|
 |2|[신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[JavaScript](./프로그래머스/Level%201/신고결과받기.js)|1|
-|3|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/로또의%최고%20순위와%20최저%20순위.js)|1|
+|3|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/로또의%20최고%20순위와%20최저%20순위.js)|1|
 |4|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [JavaScript](./프로그래머스/Level%202/문자열%20압축.js)   | 2|
 |2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)       | [JavaScript](./프로그래머스/Level%202/오픈채팅방.js)    | 2|
 |3|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)     | [JavaScript](./프로그래머스/Level%202/멀쩡한%20사각형.js) | 2 |
