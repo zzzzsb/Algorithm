@@ -1,7 +1,7 @@
 # Algorithm
 
-## LeetCode
-My solutions to [LeetCode](https://leetcode.com/) in JavaScript
+## leetcode
+My solutions to [leetcode](https://leetcode.com/) in JavaScript
 
 | #    | Title | Solution | Difficulty |
 | ---- | ----- | -------- | ---------- |
