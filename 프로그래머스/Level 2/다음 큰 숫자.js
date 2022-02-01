@@ -23,10 +23,6 @@ function convertBinary(n){
   return oneCnt;
 }
 
-let n = 12;
-
-
-// console.log(n.toString(2));
 // Solution #2
 function solution(n) {
   let oneCnt = n.toString(2).match(/1/g).length;
