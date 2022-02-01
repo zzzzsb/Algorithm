@@ -30,12 +30,12 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |3|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)     | [JavaScript](./프로그래머스/Level%202/멀쩡한%20사각형.js) | 2 |
 |4|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[JavaScript](./프로그래머스/Level%202/124%20나라의%20숫자.js)|2|
 |5|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[JavaScript](./프로그래머스/Level%202/가장%20큰%20정사각형%20찾기.js)|2|
-|6|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)||2|
-|7|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)||2|
-|8|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)||2|
-|9|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)||2|
-|10|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)||2|
-|11|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)||2|
+|6|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[JavaScript](./프로그래머스/Level%202/올바른%20괄호.js)|2|
+|7|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[JavaScript](./프로그래머스/Level%202/다음%20큰%20숫자.js)|2|
+|8|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[JavaScript](./프로그래머스/Level%202/땅따먹기.js)|2|
+|9|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|[JavaScript](./프로그래머스/Level%202/숫자의%20표현.js)|2|
+|10|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[JavaScript](./프로그래머스/Level%202/최댓값과%20최솟값.js)|2|
+|11|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|[JavaScript](./프로그래머스/Level%202/최솟값%20만들기.js)|2|
 |12|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)||2|
 |13|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)||2|
 |14|[JadenCase 문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)||2|
