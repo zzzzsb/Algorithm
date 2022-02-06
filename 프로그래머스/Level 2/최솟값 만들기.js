@@ -1,6 +1,7 @@
 // 최솟값 만들기 
 
-// time: O(N)
+// N: A.length = B.length
+// time: O(NlogN+N)
 // space: O(1)
 function solution(A,B){
   let sum = 0;

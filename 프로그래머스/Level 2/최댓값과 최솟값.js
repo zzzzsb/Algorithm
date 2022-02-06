@@ -1,10 +1,11 @@
 // 최댓값과 최솟값
 
-// Solution #1
-// S: s.length
-// N: numArr.length
-// time: O(S+N)
-// space: O(N)
+/*
+Solution #1
+N: s.length
+time: O(N)
+space: O(N)
+*/
 function solution(s) {
   const numArr= s.split(" ");
   //base case
@@ -18,7 +19,12 @@ function solution(s) {
   return String(min)+" "+String(max);
 }
 
-// Solution #2
+/*
+Solution #2
+N: s.length
+time: O(N)
+space: O(N)
+*/
 function solution(s) {
   const arr = s.split(" ");
   return Math.min(...arr)+" "+Math.max(...arr);
