@@ -19,6 +19,7 @@ My solutions to [leetcode](https://leetcode.com/) in JavaScript
 
 ## 프로그래머스
 My solutions to [programmers](https://programmers.co.kr/learn/challenges) in JavaScript
+https://velog.io/@jisubin12/series/programmers
 
 |#  | Title               | Solution |  Level   |
 |:---:| ----------------- | -------- | -------- |
