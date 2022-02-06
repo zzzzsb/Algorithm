@@ -37,7 +37,7 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |13|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[JavaScript](./프로그래머스/Level%202/최댓값과%20최솟값.js)|2|
 |14|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|[JavaScript](./프로그래머스/Level%202/최솟값%20만들기.js)|2|
 |15|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|[JavaScript](./프로그래머스/Level%202/피보나치%20수.js)|2|
-|16|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[JavaScript](./프로그래머스/Level%202/행렬의%곱셈.js)|2|
+|16|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[JavaScript](./프로그래머스/Level%202/행렬의%20곱셈.js)|2|
 |17|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[JavaScript](./프로그래머스/Level%202/JadenCase%20문자열%20만들기.js)|2|
 |18|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[JavaScript](./프로그래머스/Level%202/N개의%20최소공배수.js)|2|
 
