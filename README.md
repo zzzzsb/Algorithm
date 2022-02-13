@@ -36,7 +36,6 @@ My solutions to [leetcode](https://leetcode.com/) in JavaScript
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [JavaScript](./leetcode/leetcode_392.js) | Easy |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [JavaScript](./leetcode/leetcode_402.js) | Medium |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/count-binary-substrings/) | [JavaScript](./leetcode/leetcode_438.js) | Medium |
-
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [JavaScript](./leetcode/leetcode_463.js) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [JavaScript](./leetcode/leetcode_509.js) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [JavaScript](./leetcode/leetcode_543.js) | Easy |
