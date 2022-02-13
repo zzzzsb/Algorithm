@@ -44,7 +44,6 @@ My solutions to [leetcode](https://leetcode.com/) in JavaScript
 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [JavaScript](./leetcode/leetcode_686.js) | Medium |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [JavaScript](./leetcode/leetcode_695.js) | Medium |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./leetcode/leetcode_696.js) | Easy |
-
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [JavaScript](./leetcode/leetcode_733.js) | Easy |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [JavaScript](./leetcode/leetcode_841.js) | Medium |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | | Easy |
