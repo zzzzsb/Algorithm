@@ -37,7 +37,7 @@ var findAnagrams = function(s, p) {
   return res;
 };
 
-//Solution #2
+// Solution #2
 function stringAnagrams(string, pattern){
     let res=[];
     //edge case

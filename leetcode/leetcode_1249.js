@@ -1,5 +1,5 @@
-//https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
-//1249. Minimum Remove to Make Valid Parentheses
+// https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
+// 1249. Minimum Remove to Make Valid Parentheses
 
 var minRemoveToMakeValid = function(s) {
   let res = [...s];

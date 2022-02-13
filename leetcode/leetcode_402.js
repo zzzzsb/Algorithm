@@ -1,12 +1,15 @@
+// https://leetcode.com/problems/remove-k-digits/ 
+// 402. Remove K Digits
+
 /*
 스택 만들어서 push한다. 이때 제일 끝값이 현재 들어올값보다 크면 pop해준다.
 pop해줄때 k-- 해주면서. 
 cnt == k 되면 푸쉬하지 않은 나머지값을 마저 넣어준다.
 */
 
-//Solution 1
-//time: O(N*k)
-//space: O(N-k)
+// Solution #1
+// time: O(N*k)
+// space: O(N-k)
 var removeKdigits = function(num, k) {
   //edge case
   if(num.length === k) return "0";
@@ -46,7 +49,7 @@ j ^
 min = [1,5]
 result=[1,2,1,9]
 */
-//Solution 2
+//Solution #2
 var removeKdigits = function(num, k) {
   //edge case
   if(num.length === k) return "0";

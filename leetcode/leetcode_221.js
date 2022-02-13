@@ -1,8 +1,8 @@
-//https://leetcode.com/problems/maximal-square/
-//221. Maximal Square
+// https://leetcode.com/problems/maximal-square/
+// 221. Maximal Square
 
-//time: O(N*M)
-//space: O(1)
+// time: O(N*M)
+// space: O(1)
 var maximalSquare = function(matrix) {
   let max = 0;
 

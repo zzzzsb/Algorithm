@@ -1,5 +1,5 @@
-//https://leetcode.com/problems/count-binary-substrings/
-//696. Count Binary Substrings
+// https://leetcode.com/problems/count-binary-substrings/
+// 696. Count Binary Substrings
 /*
 현재숫자랑 이전숫자를 비교해서 다르면 substr[cur]=1넣기
                        같으면 substr[cur]++;
