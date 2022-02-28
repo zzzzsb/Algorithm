@@ -86,6 +86,5 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |16|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[JavaScript](./프로그래머스/Level%202/행렬의%20곱셈.js)|2|
 |17|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[JavaScript](./프로그래머스/Level%202/JadenCase%20문자열%20만들기.js)|2|
 |18|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[JavaScript](./프로그래머스/Level%202/N개의%20최소공배수.js)|2|
-|19|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[JavaScript](./프로그래머스/Level%202/N개의%20최소공배수.js)|2|
 
 
