@@ -86,5 +86,12 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |16|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[JavaScript](./프로그래머스/Level%202/행렬의%20곱셈.js)|2|
 |17|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[JavaScript](./프로그래머스/Level%202/JadenCase%20문자열%20만들기.js)|2|
 |18|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[JavaScript](./프로그래머스/Level%202/N개의%20최소공배수.js)|2|
+|19|[기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[JavaScript](./프로그래머스/Level%202/기능%20개발.js)|2|
+|20|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[JavaScript](./프로그래머스/Level%202/타겟%20넘버.js)|2|
+|21|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[JavaScript](./프로그래머스/Level%202/짝지어%20제거하기.js)|2|
+|22|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[JavaScript](./프로그래머스/Level%202/메뉴%20리뉴얼.js)|2|
+|23|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[JavaScript](./프로그래머스/Level%202/괄호%20변환.js)|2|
+|23|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/[1차]%20뉴스%20클러스터링.js)|2|
+
 
 
