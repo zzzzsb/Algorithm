@@ -92,8 +92,6 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |22|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[JavaScript](./프로그래머스/Level%202/메뉴%20리뉴얼.js)|2|
 |23|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[JavaScript](./프로그래머스/Level%202/괄호%20변환.js)|2|
 |23|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
-
-
 |24|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
 |25|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
 |26|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
