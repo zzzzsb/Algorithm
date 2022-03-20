@@ -1,4 +1,5 @@
 # Algorithm
+코딩테스트를 준비하며 javascript로 풀이한 알고리즘 문제들을 업로드 합니다.
 
 ## leetcode
 My solutions to [leetcode](https://leetcode.com/) in JavaScript
