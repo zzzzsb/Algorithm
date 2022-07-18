@@ -1,5 +1,7 @@
 # Algorithm
-코딩테스트를 준비하며 javascript로 풀이한 알고리즘 문제들을 업로드 합니다.
+코딩테스트를 준비하며 풀이한 알고리즘 문제들을 업로드 합니다.
+문제 사이트는 leetcode, 프로그래머스, 백준 3가지를 주로 사용합니다.
+(주 사용 언어는 Javascript이며, 백준 문제의 경우 C++로도 풀이)
 
 ## leetcode
 My solutions to [leetcode](https://leetcode.com/) in JavaScript
@@ -94,3 +96,10 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |23|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[JavaScript](./프로그래머스/Level%202/괄호%20변환.js)|2|
 |23|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
 
+### 백준 
+My solutions to [백준](https://www.acmicpc.net/) in JavaScript/C++
+| #    | Title | Solution | Difficulty | DS & Algo |
+| :---:| ----- | -------- | ---------- | ---------|
+|10828 | [스택](https://www.acmicpc.net/problem/10828) | [JavaScript](./백준/) / [C++]() | Silver IV | Stack |
+|10845 | [큐](https://www.acmicpc.net/problem/10845) | [Javascript](./백준/) / [C++]() | Silver IV | Queue |
+|1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Javascript](./백준/) / [C++]() | Silver IV | Hash |
