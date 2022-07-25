@@ -105,7 +105,3 @@ My solutions to [백준](https://www.acmicpc.net/) in JavaScript/C++
 |10845| [큐](https://www.acmicpc.net/problem/10845) | [Javascript](./백준/js/boj_10845.js) / [C++](./백준/cpp/boj_10845.cpp) | Silver 4 | Queue |
 |10974| [모든 순열](https://www.acmicpc.net/problem/10974) | [Javascript](./백준/js/boj_10974.js) | Silver 3 | Recursive |
 |11104| [K번째 수](https://www.acmicpc.net/problem/11004) | [Javascript](./백준/js/boj_11004.js) | Silver 5 | Sort |
-
-
-
-
