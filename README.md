@@ -103,3 +103,4 @@ My solutions to [백준](https://www.acmicpc.net/) in JavaScript/C++
 |10828 | [스택](https://www.acmicpc.net/problem/10828) | [JavaScript](./백준/js/boj_10828.js) / [C++](./백준/cpp/boj_10828.cpp) | Silver IV | Stack |
 |10845 | [큐](https://www.acmicpc.net/problem/10845) | [Javascript](./백준/js/boj_10845.js) / [C++](./백준/cpp/boj_10845.cpp) | Silver IV | Queue |
 |1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Javascript](./백준/js/boj_1920.js) | Silver IV | Hash |
+
