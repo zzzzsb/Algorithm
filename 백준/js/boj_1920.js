@@ -1,5 +1,4 @@
-const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
-
+const input = require("fs").readFileSync("/dev/stdin").toString().trim().split("\n");
 const [M, A, N, B] = input.map(v => v.split(" ").map(x => Number(x)));
 
 const map = new Map();
