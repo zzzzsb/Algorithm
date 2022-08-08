@@ -95,15 +95,19 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |22|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[JavaScript](./프로그래머스/Level%202/메뉴%20리뉴얼.js)|2|
 |23|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[JavaScript](./프로그래머스/Level%202/괄호%20변환.js)|2|
 |23|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
+|24|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/H-Index.js)|2|
 
 ### 백준 
 My solutions to [백준](https://www.acmicpc.net/) in JavaScript/C++
 | #    | Title | Solution | Difficulty | DS & Algo |
 | :---:| ----- | -------- | ---------- | ---------|
-|1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Javascript](./백준/js/boj_1920.js) | Silver 4 | HashMap |
+|1912 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Javascript](./백준/js/boj_1920.js) | Silver 2 | Dynamic Programming |
+|1920 | [연속합](https://www.acmicpc.net/problem/1912) | [Javascript](./백준/js/boj_1912.js) | Silver 4 | HashMap |
 |2606 | [바이러스](https://www.acmicpc.net/problem/2606) | [Javascript](./백준/js/boj_2606.js) | Silver 3 | DFS / BFS |
 |1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [Javascript](./백준/js/boj_1920.js) | Silver 4 | HashMap |
 |10828| [스택](https://www.acmicpc.net/problem/10828) | [JavaScript](./백준/js/boj_10828.js) / [C++](./백준/cpp/boj_10828.cpp) | Silver 4 | Stack |
 |10845| [큐](https://www.acmicpc.net/problem/10845) | [Javascript](./백준/js/boj_10845.js) / [C++](./백준/cpp/boj_10845.cpp) | Silver 4 | Queue |
 |10974| [모든 순열](https://www.acmicpc.net/problem/10974) | [Javascript](./백준/js/boj_10974.js) | Silver 3 | Recursive |
 |11104| [K번째 수](https://www.acmicpc.net/problem/11004) | [Javascript](./백준/js/boj_11004.js) | Silver 5 | Sort |
+|11147| [동전 0](https://www.acmicpc.net/problem/11047) | [Javascript](./백준/js/boj_11047.js) | Silver 4 | Greedy |
+|11399| [ATM](https://www.acmicpc.net/problem/11399) | [Javascript](./백준/js/boj_11399.js) | Silver 4 | Sort |
