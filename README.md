@@ -112,4 +112,3 @@ My solutions to [백준](https://www.acmicpc.net/) in JavaScript/C++
 |11147| [동전 0](https://www.acmicpc.net/problem/11047) | [Javascript](./백준/js/boj_11047.js) | Silver 4 | Greedy |
 |11399| [ATM](https://www.acmicpc.net/problem/11399) | [Javascript](./백준/js/boj_11399.js) | Silver 4 | Sort |
 
-
