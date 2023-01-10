@@ -84,12 +84,12 @@ My solutions to [programmers](https://school.programmers.co.kr/learn/challenges)
 |8|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[JavaScript](./프로그래머스/Level%201/완주하지%20못한%20선수.js)|해시|
 |9|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|[JavaScript](./프로그래머스/Level%201/음양%20더하기.js)|월간 코드 챌린지 시즌2|
 |10|[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|[JavaScript](./프로그래머스/Level%201/자연수%20뒤집어%20배열로%20만들기.js)|연습문제|
-|11|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/정수%20내림차순으로%20배치하기.js)|1|
+|11|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/정수%20내림차순으로%20배치하기.js)|연습문제|
 |12|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|[JavaScript](./프로그래머스/Level%201/정수%20제곱근%20판별.js)|연습문제|
 |13|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[JavaScript](./프로그래머스/Level%201/제일%20작은%20수%20제거하기.js)|연습문제|
 |14|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|[JavaScript](./프로그래머스/Level%201/짝수와%20홀수.js)|연습문제|
 |15|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[JavaScript](./프로그래머스/Level%201/최소직사각형.js)|완전탐색|
-|16|[콜라츠 추측](https://school.school.programmers.co.kr/learn/courses/30/lessons/12943)|[JavaScript](./프로그머스/Level%201/콜라츠%20추측.js)|1|
+|16|[콜라츠 추측](https://school.school.programmers.co.kr/learn/courses/30/lessons/12943)|[JavaScript](./프로그머스/Level%201/콜라츠%20추측.js)|연습문제|
 |17|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|[JavaScript](./프로그래머스/Level%201/평균%20구하기.js)|연습문제|
 |18|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|[JavaScript](./프로그래머스/Level%201/폰켓몬.js)|해시|
 |19|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|[JavaScript](./프로그래머스/Level%201/하샤드%20수.js)|연습문제|
@@ -102,10 +102,9 @@ My solutions to [programmers](https://school.programmers.co.kr/learn/challenges)
 |#  | Title               | Solution |  DS&Algo |
 |:---:| ----------------- | -------- | -------- |
 |1|[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)| [JavaScript](./프로그래머스/Level%202/문자열%20압축.js)   | 2020 KAKAO BLIND RECRUITMENT|
-|2|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)| [JavaScript](./프로그래머스/Level%202/오픈채팅방.js)| 2019 KAKAO BLIND RECRUITMENT
-|
+|2|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)| [JavaScript](./프로그래머스/Level%202/오픈채팅방.js)| 2019 KAKAO BLIND RECRUITMENT|
 |3|[멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)| [JavaScript](./프로그래머스/Level%202/멀쩡한%20사각형.js) | Summer/Winter Coding(2019) |
-|4|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[JavaScript](./프로그래머스/Level%202/124%20나라의%20숫자.js)|2|
+|4|[124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|[JavaScript](./프로그래머스/Level%202/124%20나라의%20숫자.js)|연습문제|
 |5|[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)|[JavaScript](./프로그래머스/Level%202/가장%20큰%20정사각형%20찾기.js)|연습문제|
 |6|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[JavaScript](./프로그래머스/Level%202/올바른%20괄호.js)|스택/큐|
 |7|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[JavaScript](./프로그래머스/Level%202/다음%20큰%20숫자.js)|연습문제|
@@ -115,7 +114,7 @@ My solutions to [programmers](https://school.programmers.co.kr/learn/challenges)
 |11|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[JavaScript](./프로그래머스/Level%202/최솟값%20만들기.js)|연습문제|
 |12|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[JavaScript](./프로그래머스/Level%202/피보나치%20수.js)|연습문제|
 |13|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[JavaScript](./프로그래머스/Level%202/행렬의%20곱셈.js)|연습문제|
-|14|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[JavaScript](./프로그래머스/Level%202/JadenCase%20문자열%20만들기.js)|2|
+|14|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[JavaScript](./프로그래머스/Level%202/JadenCase%20문자열%20만들기.js)|연습문제|
 |15|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[JavaScript](./프로그래머스/Level%202/N개의%20최소공배수.js)|연습문제|
 |16|[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|[JavaScript](./프로그래머스/Level%202/기능%20개발.js)|스택/큐|
 |17|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[JavaScript](./프로그래머스/Level%202/타겟%20넘버.js)|DFS/BFS|
