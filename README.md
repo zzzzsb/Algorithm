@@ -4,7 +4,10 @@
 (주 사용 언어는 Javascript이며, 백준 문제의 경우 C++로도 풀이)
 
 ## leetcode
-My solutions to [leetcode](https://leetcode.com/) in JavaScript
+> My solutions to [leetcode](https://leetcode.com/) in JavaScript
+<details>
+<summary>Solutions</summary>
+<div markdown="1">
 
 | #    | Title | Solution | Difficulty |
 | :---:| ----- | -------- | ---------- |
@@ -62,6 +65,8 @@ My solutions to [leetcode](https://leetcode.com/) in JavaScript
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [JavaScript](./leetcode/leetcode_1539.js) | Easy |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [JavaScript](./leetcode/leetcode_1614.js) | Easy |
 ||||
+</div>
+</details>
 
 ## 프로그래머스
 My solutions to [programmers](https://programmers.co.kr/learn/challenges) in JavaScript
@@ -69,33 +74,83 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 <br>
 ❗️ https://velog.io/@jisubin12/series/programmers
 
-|#  | Title               | Solution |  Level   |
+<details>
+<summary>Level 1 Solutions</summary>
+<div markdown="1">
+
+|#  | Title               | Solution |  DS&Algo |
 |:---:| ----------------- | -------- | -------- |
 |1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[JavaScript](./프로그래머스/Level%201/신규%20아이디%20추천.js)|1|
 |2|[신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[JavaScript](./프로그래머스/Level%201/신고결과받기.js)|1|
 |3|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/로또의%20최고%20순위와%20최저%20순위.js)|1|
-|4|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [JavaScript](./프로그래머스/Level%202/문자열%20압축.js)   | 2|
-|5|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)       | [JavaScript](./프로그래머스/Level%202/오픈채팅방.js)    | 2|
-|6|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)     | [JavaScript](./프로그래머스/Level%202/멀쩡한%20사각형.js) | 2 |
-|7|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[JavaScript](./프로그래머스/Level%202/124%20나라의%20숫자.js)|2|
-|8|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[JavaScript](./프로그래머스/Level%202/가장%20큰%20정사각형%20찾기.js)|2|
-|9|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[JavaScript](./프로그래머스/Level%202/올바른%20괄호.js)|2|
-|10|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[JavaScript](./프로그래머스/Level%202/다음%20큰%20숫자.js)|2|
-|11|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[JavaScript](./프로그래머스/Level%202/땅따먹기.js)|2|
-|12|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|[JavaScript](./프로그래머스/Level%202/숫자의%20표현.js)|2|
-|13|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[JavaScript](./프로그래머스/Level%202/최댓값과%20최솟값.js)|2|
-|14|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|[JavaScript](./프로그래머스/Level%202/최솟값%20만들기.js)|2|
-|15|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|[JavaScript](./프로그래머스/Level%202/피보나치%20수.js)|2|
-|16|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[JavaScript](./프로그래머스/Level%202/행렬의%20곱셈.js)|2|
-|17|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[JavaScript](./프로그래머스/Level%202/JadenCase%20문자열%20만들기.js)|2|
-|18|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[JavaScript](./프로그래머스/Level%202/N개의%20최소공배수.js)|2|
-|19|[기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[JavaScript](./프로그래머스/Level%202/기능%20개발.js)|2|
-|20|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[JavaScript](./프로그래머스/Level%202/타겟%20넘버.js)|2|
-|21|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[JavaScript](./프로그래머스/Level%202/짝지어%20제거하기.js)|2|
-|22|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[JavaScript](./프로그래머스/Level%202/메뉴%20리뉴얼.js)|2|
-|23|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[JavaScript](./프로그래머스/Level%202/괄호%20변환.js)|2|
-|23|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
-|24|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/H-Index.js)|2|
+|4|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/x만큼%20간격이%20있는%20n개의%20숫자.js)|1|
+|5|[같은 숫자는 싫어.js](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/같은%20숫자는%20싫어.js)|1|
+|6|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/숫자%20문자열과%20영단어.js)|1|
+|7|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/없는%20숫자%20더하기.js)|1|
+|8|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/완주하지%20못한%20선수.js)|1|
+|9|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/음양%20더하기.js)|1|
+|10|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/자연수%20뒤집어%20배열로%20만들기.js)|1|
+|11|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/정수%20내림차순으로%20배치하기.js)|1|
+|12|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/정수%20제곱근%20판별.js)|1|
+|13|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/제일%20작은%20수%20제거하기.js)|1|
+|14|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/짝수와%20홀수.js)|1|
+|15|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/최소직사각형.js)|1|
+|16|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그머스/Level%201/콜라츠%20추측.js)|1|
+|17|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/평균%20구하기.js)|1|
+|18|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/폰켓몬.js)|1|
+|19|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/하샤드%20수.js)|1|
+|20|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/핸드폰%20번호%20가리기.js)|1|
+|21|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/행렬의%20덧셈.js)|1|
+</div>
+</details>
+
+<details>
+<summary>Level 2 Solutions</summary>
+<div markdown="1">
+
+|#  | Title               | Solution |  DS&Algo |
+|:---:| ----------------- | -------- | -------- |
+|1|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [JavaScript](./프로그래머스/Level%202/문자열%20압축.js)   | 2|
+|2|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)       | [JavaScript](./프로그래머스/Level%202/오픈채팅방.js)    | 2|
+|3|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)     | [JavaScript](./프로그래머스/Level%202/멀쩡한%20사각형.js) | 2 |
+|4|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[JavaScript](./프로그래머스/Level%202/124%20나라의%20숫자.js)|2|
+|5|[가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)|[JavaScript](./프로그래머스/Level%202/가장%20큰%20정사각형%20찾기.js)|2|
+|6|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[JavaScript](./프로그래머스/Level%202/올바른%20괄호.js)|2|
+|7|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[JavaScript](./프로그래머스/Level%202/다음%20큰%20숫자.js)|2|
+|8|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[JavaScript](./프로그래머스/Level%202/땅따먹기.js)|2|
+|9|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|[JavaScript](./프로그래머스/Level%202/숫자의%20표현.js)|2|
+|10|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[JavaScript](./프로그래머스/Level%202/최댓값과%20최솟값.js)|2|
+|11|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|[JavaScript](./프로그래머스/Level%202/최솟값%20만들기.js)|2|
+|12|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|[JavaScript](./프로그래머스/Level%202/피보나치%20수.js)|2|
+|13|[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[JavaScript](./프로그래머스/Level%202/행렬의%20곱셈.js)|2|
+|14|[JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[JavaScript](./프로그래머스/Level%202/JadenCase%20문자열%20만들기.js)|2|
+|15|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[JavaScript](./프로그래머스/Level%202/N개의%20최소공배수.js)|2|
+|16|[기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[JavaScript](./프로그래머스/Level%202/기능%20개발.js)|2|
+|17|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[JavaScript](./프로그래머스/Level%202/타겟%20넘버.js)|2|
+|18|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[JavaScript](./프로그래머스/Level%202/짝지어%20제거하기.js)|2|
+|19|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[JavaScript](./프로그래머스/Level%202/메뉴%20리뉴얼.js)|2|
+|20|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[JavaScript](./프로그래머스/Level%202/괄호%20변환.js)|2|
+|21|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[JavaScript](./프로그래머스/Level%202/%5B1차%5D뉴스%20클러스터링.js)|2|
+|22|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/H-Index.js)|2|
+|23|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/가장%20큰%20수.js)|2|
+|24|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/거리두기%20확인하기.jss)|2|
+|25|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/게임%20맵%20최단거리.js)|2|
+|26|[빛의 경로 사이클.js](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/빛의%20경로%20사이클.js)|2|
+|27|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/소수%20찾기.js)|2|
+|28|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/수식%20최대화.js)|2|
+|29|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/순위%20검색.js)|2|
+|30|[위장](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/위장.js)|2|
+|31|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/조이스틱.js)|2|
+|32|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/카펫.js)|2|
+|33|[튜플](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/튜플.js)|2|
+|34|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/프린터.js)|2|
+|35|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/행렬%20테두리%20회전하기.js)|2|
+|36|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/후보키.js)|2|
+
+</div>
+</details>
+
+
 
 ### 백준 
 My solutions to [백준](https://www.acmicpc.net/) in JavaScript/C++
