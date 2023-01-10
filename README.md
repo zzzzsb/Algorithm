@@ -141,8 +141,8 @@ My solutions to [programmers](https://school.programmers.co.kr/learn/challenges)
 ### Level 3  
 |#  | Title               | Solution |  DS&Algo |
 |:---:| ----------------- | -------- | -------- |
-|1|[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|[JavaScript](./프로그래머스/Level%202/N으로%20표현.js)|동적계획법(Dynamic Programming)|
-|2|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|[JavaScript](./프로그래머스/Level%202/베스트앨범.js)|해시|
+|1|[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|[JavaScript](./프로그래머스/Level%203/N으로%20표현.js)|동적계획법(Dynamic Programming)|
+|2|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|[JavaScript](./프로그래머스/Level%203/베스트앨범.js)|해시|
   
  
 ### 백준 
