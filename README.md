@@ -5,9 +5,6 @@
 
 ## leetcode
 > My solutions to [leetcode](https://leetcode.com/) in JavaScript
-<details>
-<summary>Solutions</summary>
-<div markdown="1">
 
 | #    | Title | Solution | Difficulty |
 | :---:| ----- | -------- | ---------- |
@@ -74,10 +71,7 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 <br>
 ❗️ https://velog.io/@jisubin12/series/programmers
 
-<details>
-<summary>Level 1 Solutions</summary>
-<div markdown="1">
-
+### Level 1
 |#  | Title               | Solution |  DS&Algo |
 |:---:| ----------------- | -------- | -------- |
 |1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[JavaScript](./프로그래머스/Level%201/신규%20아이디%20추천.js)|1|
@@ -101,13 +95,9 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |19|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/하샤드%20수.js)|1|
 |20|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/핸드폰%20번호%20가리기.js)|1|
 |21|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77484)|[JavaScript](./프로그래머스/Level%201/행렬의%20덧셈.js)|1|
-</div>
-</details>
 
-<details>
-<summary>Level 2 Solutions</summary>
-<div markdown="1">
 
+### Level 2
 |#  | Title               | Solution |  DS&Algo |
 |:---:| ----------------- | -------- | -------- |
 |1|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)      | [JavaScript](./프로그래머스/Level%202/문자열%20압축.js)   | 2|
@@ -147,11 +137,13 @@ My solutions to [programmers](https://programmers.co.kr/learn/challenges) in Jav
 |35|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/행렬%20테두리%20회전하기.js)|2|
 |36|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/후보키.js)|2|
 
-</div>
-</details>
-
-
-
+### Level 3  
+|#  | Title               | Solution |  DS&Algo |
+|:---:| ----------------- | -------- | -------- |
+|1|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/N으로%20표현.js)|2|
+|2|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42747)|[JavaScript](./프로그래머스/Level%202/베스트앨범.js)|2|
+  
+ 
 ### 백준 
 My solutions to [백준](https://www.acmicpc.net/) in JavaScript/C++
 | #    | Title | Solution | Difficulty | DS & Algo |
