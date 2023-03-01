@@ -29,7 +29,7 @@ for (let i = 0; i < N; i++) {
 
 function dfs(row, col) {
   if (isValidRange(row, col) && !visited[row][col] && map[row][col] === 1) {
-    map[row][col] = 0;
+    visited[row][col] = true;
     homeCnt++;
     for (let d of dir) {
       dfs(row + d[0], col + d[1]);
