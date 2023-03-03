@@ -33,11 +33,10 @@ function bfs(i, j) {
   queue.push([i, j]);
   homeCnt++;
   while (queue.length) {
-    let curHome = queue.shift();
-    let [cx, cy] = [curHome[0], curHome[1]];
-    visited[cx][cy] = true;
+    let [x, y] = queue.shift();
+    visited[x][y] = true;
     for (let d of dir) {
-      let [dx, dy] = [cx + d[0], cy + d[1]];
+      let [dx, dy] = [x + d[0], y + d[1]];
       if (isValidRange(dx, dy)) {
         if (map[dx][dy] === 1 && !visited[dx][dy]) {
           visited[dx][dy] = true;
