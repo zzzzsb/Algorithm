@@ -3,49 +3,38 @@ let input = require("fs").readFileSync(filePath).toString().trim().split("\n");
 
 const N = Number(input.shift());
 input = input.map((item) => item.split(" "));
+
+const tree = Array.from(Array(N + 1), () => []);
+const sheep = new Array(N + 1).fill(0);
+const wolf = new Array(N + 1).fill(0);
 let answer = 0;
-const island = new Map();
-for (let i = 0; i < N - 1; i++) {
-  let animal = input[i][0];
-  let number = Number(input[i][1]);
-  let connect = Number(input[i][2]);
-  island.set(i + 2, { animal, number, connect });
+
+for (let i = 0; i < input.length; i++) {
+  let curNode = input[i];
+  let parent = Number(curNode[2]);
+  // 트리 생성
+  tree[parent].push(i + 2);
+  // 각 섬별 양, 늑대 수 배열 생성
+  if (curNode[0] === "S") sheep[i + 2] = Number(curNode[1]);
+  else wolf[i + 2] = Number(curNode[1]);
 }
 
-console.log(island);
+function dfs(curNode) {
+  let sheepCount = sheep[curNode];
 
-/*
-island[i+2].animal===S면 dfs 들어간다.
-dfs(island[i+2].number, i+2)
+  for (let child of tree[curNode]) {
+    sheepCount += dfs(child);
+  }
 
-dfs(sheepCount, islandNum):
-const animal = island[islandNum].animal
-const number = island[islandNum].number
-const connect = island[islandNum].connect
+  if (wolf[curNode] > sheepCount) {
+    wolf[curNode] -= sheepCount;
+    sheepCount = 0;
+  } else {
+    sheepCount -= wolf[curNode];
+    wolf[curNode] = 0;
+  }
 
-if(animal==='W') sheepCount -= number;
-
-if(connect== 1) answer+= sheepCount
-else {
-  let goSheepCount = sheepCount+number;
-  let goIslandNum = connect;
-  dfs(goSheepCount, goIslandNum)
+  return sheepCount;
 }
-*/
 
-console.log(answer);
-/*
-4
-S 100 3
-W 50 1
-S 10 1
-
-섬 개수 4개.
-
-2번 섬: 양(S) 100마리, 3번섬으로가는 다리
-3번 섬: 늑대(W) 50마리, 1번섬으로가는 다리
-4번 섬: 양(S) 10마리, 1번섬으로 가는 다리
-
-2->3 이동할때 양 50마리(100-50) 3->1 50마리.
-4->1 양 10마리.
-*/
+console.log(dfs(1));
