@@ -52,11 +52,11 @@ def solution(n, computers):
         queue.append(curIdx)
         while queue:
             curIdx = queue.popleft()
-            visited[curIdx] = True
             for i in range(n):
                 if not visited[i] and computers[curIdx][i] == 1:
                     queue.append(i)
-        
+                    visited[i] = True
+
         
     for i in range(n):
         if not visited[i]:
